@@ -83,4 +83,3 @@
    // codebase to address this.
    SECMODModule* module = SECMOD_LoadUserModule(
        const_cast<char*>(modparams.c_str()), nullptr, PR_FALSE);
-
